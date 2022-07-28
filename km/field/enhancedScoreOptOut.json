@@ -1,0 +1,99 @@
+{
+  "$id": "c_enhancedScoreOptOut",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Enhanced Score Opt-Out",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "option",
+      "type": {
+        "optionType": {
+          "option": [
+            {
+              "displayName": "Photo Gallery",
+              "textValue": "PHOTO_GALLERY"
+            },
+            {
+              "displayName": "Services List",
+              "textValue": "SERVICES_LIST"
+            },
+            {
+              "displayName": "Specialties",
+              "textValue": "SPECIALTIES"
+            },
+            {
+              "displayName": "Calendars",
+              "textValue": "CALENDARS"
+            },
+            {
+              "displayName": "Category - Additional Categories",
+              "textValue": "CATEGORY_-_ADDITIONAL_CATEGORIES"
+            },
+            {
+              "displayName": "Google Highlights",
+              "textValue": "GOOGLE_HIGHLIGHTS"
+            },
+            {
+              "displayName": "Service Area",
+              "textValue": "SERVICE_AREA"
+            },
+            {
+              "displayName": "Google Amenities",
+              "textValue": "GOOGLE_AMENITIES"
+            },
+            {
+              "displayName": "Associations",
+              "textValue": "ASSOCIATIONS"
+            },
+            {
+              "displayName": "Business Phone - Local Phone",
+              "textValue": "BUSINESS_PHONE_-_LOCAL_PHONE"
+            },
+            {
+              "displayName": "Business Phone - Fax Number",
+              "textValue": "BUSINESS_PHONE_-_FAX_NUMBER"
+            },
+            {
+              "displayName": "Business Hours - Holiday Hours",
+              "textValue": "BUSINESS_HOURS_-_HOLIDAY_HOURS"
+            },
+            {
+              "displayName": "Google Offerings",
+              "textValue": "GOOGLE_OFFERINGS"
+            },
+            {
+              "displayName": "Google Planning",
+              "textValue": "GOOGLE_PLANNING"
+            },
+            {
+              "displayName": "Product List",
+              "textValue": "PRODUCT_LIST"
+            },
+            {
+              "displayName": "Menus",
+              "textValue": "MENUS"
+            },
+            {
+              "displayName": "Brands",
+              "textValue": "BRANDS"
+            },
+            {
+              "displayName": "Staff Bios",
+              "textValue": "STAFF_BIOS"
+            },
+            {
+              "displayName": "Google Accessibility",
+              "textValue": "GOOGLE_ACCESSIBILITY"
+            },
+            {
+              "displayName": "Products/Services Enhanced Content List",
+              "textValue": "PRODUCTS/SERVICES_ENHANCED_CONTENT_LIST"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}
